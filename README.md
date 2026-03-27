@@ -18,6 +18,7 @@
   Dark mode web extension for Hacker News.
   
   
+  
   Quick weekend project, made by request when I saw that it had been
   left up to the Hacker News community.
 - **[Espalier](https://github.com/reup-distribution/espalier)** (Dec 2015 – Feb 2017)
@@ -25,6 +26,7 @@
   Placeholder style rules for [Garden][garden].
   
   [garden]: https://github.com/noprompt/garden
+  
   
   
   Created and open sourced at Reup to optimize redundant CSS rules
@@ -40,6 +42,7 @@
   [rfc2445exceptions]: https://github.com/jkbrzt/rrule#differences-from-icalendar-rfc
   
   
+  
   Created and open sourced at Reup for generating standardized rules
   for recurring dates & times.
 - **[cljs-rest](https://github.com/reup-distribution/cljs-rest)** (Mar – Jul 2016)
@@ -48,11 +51,13 @@
   RESTful APIs.
   
   
+  
   Created and open sourced at Reup to simplify integration between
   ClojureScript websites & web apps and backend REST APIs.
 - **[alter-cljs](https://github.com/eyelidlessness/alter-cljs)** (Jan 2016)
   
   A ClojureScript implementation of `alter-var-root`.
+  
   
   
   Created to provide the same behavior as [Clojure][altervarrootclojure] on the JVM.
@@ -64,12 +69,14 @@
   comments.
   
   
+  
   Created and open sourced at ClipCard to easily produce a full
   archive of an organization's GitHub issues activity.
 - **[Bundle Tracker](https://github.com/ClipCard/bundle_tracker)** (Jan – May 2015)
   
   Utility for cataloging and identifying macOS "bundle" directory
   types which are commonly treated as files.
+  
   
   
   Created and open sourced at ClipCard for use in several API
@@ -82,7 +89,7 @@
 
 - **[@getodk/web-forms](https://github.com/getodk/web-forms/tree/ab3be86e457250f4bbb58ff9857695a9f9d1c789/packages/web-forms)** (Mar 2024 – Apr 2025)
   
-  
+  [ODK Web Forms](https://github.com/getodk/web-forms) UI client
 - **[Enketo](https://github.com/enketo)** (Apr 2021 – Oct 2023)
   
   Long-term maintenance.
