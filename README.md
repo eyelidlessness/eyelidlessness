@@ -22,22 +22,22 @@
   left up to the Hacker News community.
 - **[Espalier](https://github.com/reup-distribution/espalier)** (Dec 2015 – Feb 2017)
   
-  Placeholder style rules for [Garden][1].
+  Placeholder style rules for [Garden][garden].
   
-  [1]: https://github.com/noprompt/garden
+  [garden]: https://github.com/noprompt/garden
   
   
   Created and open sourced at Reup to optimize redundant CSS rules
   as a simple DSL with a great DX.
 - **[cljs-rrule](https://github.com/reup-distribution/cljs-rrule)** (Jun – Jul 2016)
   
-  A ClojureScript wrapper for [rrule.js][1], with common Clojure
-  semantics for `RRule` and `RRuleSet`, conforming to [RFC 2445][2]
-  ([with some specific exceptions][3]).
+  A ClojureScript wrapper for [rrule.js][rrulejs], with common Clojure
+  semantics for `RRule` and `RRuleSet`, conforming to [RFC 2445][rfc2445]
+  ([with some specific exceptions][rfc2445exceptions]).
   
-  [1]: https://github.com/jkbrzt/rrule
-  [2]: https://tools.ietf.org/html/rfc2445
-  [3]: https://github.com/jkbrzt/rrule#differences-from-icalendar-rfc
+  [rrulejs]: https://github.com/jkbrzt/rrule
+  [rfc2445]: https://tools.ietf.org/html/rfc2445
+  [rfc2445exceptions]: https://github.com/jkbrzt/rrule#differences-from-icalendar-rfc
   
   
   Created and open sourced at Reup for generating standardized rules
@@ -55,9 +55,9 @@
   A ClojureScript implementation of `alter-var-root`.
   
   
-  Created to provide the same behavior as [Clojure][1] on the JVM.
+  Created to provide the same behavior as [Clojure][altervarrootclojure] on the JVM.
   
-  [1]: https://clojuredocs.org/clojure.core/alter-var-root
+  [altervarrootclojure]: https://clojuredocs.org/clojure.core/alter-var-root
 - **[GitHub Issues Dump](https://github.com/ClipCard/github_issues_dump)** (Aug 2015)
   
   Utility for exporting all of an organization's GitHub issues and
@@ -109,11 +109,11 @@
   Corrected documentation in TypeScript example.
 - **[CLJSJS](https://github.com/cljsjs/packages)** (Jun 2016 – May 2017)
   
-  Introduced support for [big.js][1] in ClojureScript, and updated
-  support for [rrule.js][2].
+  Introduced support for [big.js][bigjs] in ClojureScript, and updated
+  support for [rrule.js][rrulejs].
   
-  [1]: https://github.com/MikeMcl/big.js/
-  [2]: https://github.com/jkbrzt/rrule
+  [bigjs]: https://github.com/MikeMcl/big.js/
+  [rrulejs]: https://github.com/jkbrzt/rrule
 - **[Accountant](https://github.com/venantius/accountant)** (Dec 2015 – Dec 2016)
   
   Fixed a pair of bugs where query parameters on a link were not
@@ -125,12 +125,12 @@
   Expanded version support.
 - **[speclj](https://github.com/slagyr/speclj)** (Apr 2016)
   
-  Introduced support for [`.cljc`][1] modules. Improved reliability
+  Introduced support for [`.cljc`][cljc] modules. Improved reliability
   of determining whether `.cljc` tests are being run in Clojure or
   ClojureScript. Fixed a bug when testing whether a value is a given
   throwable type.
   
-  [1]: https://github.com/clojure/clojurescript/wiki/Using-cljc
+  [cljc]: https://github.com/clojure/clojurescript/wiki/Using-cljc
 - **[Figwheel](https://github.com/bhauman/lein-figwheel)** (Dec 2015)
   
   Added support for the `:notify-command` configuration allowing
